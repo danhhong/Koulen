@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1352";
 copyright = "Copyright 2012 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -13267,6 +13267,7 @@ name = postscriptFontName;
 value = Koulen;
 }
 );
+interpolationWeight = 400;
 instanceInterpolations = {
 "CA83E40A-73A6-405E-BD72-6C931CC3ADE9" = 1;
 };
