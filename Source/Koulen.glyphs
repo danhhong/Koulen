@@ -14607,6 +14607,17 @@ width = 1300;
 }
 );
 note = uni1794.a;
+},
+{
+glyphname = uni00A0;
+lastChange = "2021-03-25 11:34:53 +0000";
+layers = (
+{
+layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
+width = 532;
+}
+);
+unicode = 00A0;
 }
 );
 instances = (
