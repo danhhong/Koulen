@@ -335,6 +335,10 @@ uni17D2_1798.b,
 uni17D2_17A0.b,
 uni1794.a
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2020-02-19 02:17:00 +0000";
@@ -460,11 +464,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2189;
+value = 2501;
 },
 {
 name = winDescent;
-value = 850;
+value = 1126;
 },
 {
 name = hheaAscender;
