@@ -1,6 +1,6 @@
 {
 .appVersion = "1352";
-copyright = "Copyright 2012 Google Inc. All Rights Reserved.";
+copyright = "Copyright 2019 The Koulen Project Authors (https://github.com/danhhong/Koulen)";
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -14519,8 +14519,6 @@ period = -184;
 };
 };
 };
-manufacturer = "Danh Hong";
-manufacturerURL = "http://code.google.com/p/noto/";
 unitsPerEm = 2048;
 versionMajor = 8;
 versionMinor = 0;
