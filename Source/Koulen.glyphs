@@ -6562,7 +6562,7 @@ unicode = 17DC;
 },
 {
 glyphname = uni17D2_1783;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6602,10 +6602,11 @@ width = 649;
 }
 );
 note = uni17D2_1783;
+category = Letter;
 },
 {
 glyphname = uni17D2_1788;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6655,10 +6656,11 @@ width = 649;
 }
 );
 note = uni17D2_1788;
+category = Letter;
 },
 {
 glyphname = uni17D2_178D;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6705,10 +6707,11 @@ width = 649;
 }
 );
 note = uni17D2_178D;
+category = Letter;
 },
 {
 glyphname = uni17D2_1794;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6742,10 +6745,11 @@ width = 649;
 }
 );
 note = uni17D2_1794;
+category = Letter;
 },
 {
 glyphname = uni17D2_1799;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6781,10 +6785,11 @@ width = 649;
 }
 );
 note = uni17D2_1799;
+category = Letter;
 },
 {
 glyphname = uni17D2_179A;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6818,10 +6823,11 @@ width = 649;
 }
 );
 note = uni17D2_179A;
+category = Letter;
 },
 {
 glyphname = uni17D2_179F;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -6865,6 +6871,7 @@ width = 649;
 }
 );
 note = uni17D2_179F;
+category = Letter;
 },
 {
 glyphname = uni1789.a;
@@ -7063,7 +7070,7 @@ note = uni17C0.b;
 },
 {
 glyphname = uni17D2_179A.b;
-lastChange = "2021-03-25 11:20:46 +0000";
+lastChange = "2021-03-25 16:17:47 +0000";
 layers = (
 {
 layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
@@ -7097,6 +7104,7 @@ width = 649;
 }
 );
 note = uni17D2_179A.b;
+category = Letter;
 },
 {
 glyphname = zero;
