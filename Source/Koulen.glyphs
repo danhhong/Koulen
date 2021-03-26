@@ -9961,50 +9961,6 @@ width = 532;
 unicode = 00A0;
 },
 {
-glyphname = CR;
-layers = (
-{
-layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
-width = 1044;
-}
-);
-note = CR;
-},
-{
-glyphname = .notdef;
-lastChange = "2021-03-25 11:20:45 +0000";
-layers = (
-{
-layerId = "CA83E40A-73A6-405E-BD72-6C931CC3ADE9";
-paths = (
-{
-closed = 1;
-nodes = (
-"102 1462 LINE",
-"102 0 LINE",
-"922 0 LINE",
-"922 1462 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"823 98 LINE",
-"201 98 LINE",
-"201 1364 LINE",
-"823 1364 LINE"
-);
-}
-);
-userData = {
-assembly = "NPUSHB[ ]	/* 39 values pushed */\0120 0 0 3 2 0 3 103 0 2 1 1 2 87 0 2 2 1 95 4 1 1 2 1 79 0 0 7 6 5 4 0 3 0 3 17 5 6 23 \012CALL[ ]	/* CallFunction */";
-};
-width = 1024;
-}
-);
-note = .notdef;
-},
-{
 glyphname = dollar;
 lastChange = "2021-03-25 11:20:45 +0000";
 layers = (
